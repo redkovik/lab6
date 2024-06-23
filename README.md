@@ -1,1 +1,1 @@
-run project - ```sh dotnet run```
+run project - ```dotnet run```
